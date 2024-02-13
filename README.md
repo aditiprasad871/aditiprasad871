@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditiprasad871&label=Profile%20views&color=0e75b6&style=flat" alt="aditiprasad871" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditiprasad871" alt="aditiprasad871" /></a> </p>
-
 - 🔭 I’m currently working on **Data Science Projects**
 
 - 🌱 I’m currently learning **AWS Courses , Java , Sql**
