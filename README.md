@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Data Science Projects**
 
-- 🌱 I’m currently learning **AWS Courses , Java , Sql**
+- 🌱 I’m currently learning **AWS Courses , Java , Sql , PowerBI**
 
 - 📫 How to reach me **aditiprasad871@gmail.com**
 
